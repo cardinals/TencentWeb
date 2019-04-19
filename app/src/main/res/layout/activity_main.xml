@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_open_gif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开gif" />
+
+    <Button
+        android:id="@+id/btn_open_pdf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开pdf" />
+
+    <Button
+        android:id="@+id/btn_open_png"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开png" />
+
+    <Button
+        android:id="@+id/btn_open_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开word" />
+
+    <Button
+        android:id="@+id/btn_open_xlse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开xlse" />
+
+    <Button
+        android:id="@+id/btn_open_html"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开html" />
+
+</LinearLayout>
